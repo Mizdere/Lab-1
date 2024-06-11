@@ -1,2 +1,2 @@
 # Lab-1
-C++ Purpose: Convert KM to miles
+C++ All exercises from Lab 1 
