@@ -1,7 +1,4 @@
 // Purpose: Convert KM to miles
-
-// Anton Luna
-// CSIS-113A-3780 
 // Last Modified Date: 3/22/2024
 
 #include <iostrream>
