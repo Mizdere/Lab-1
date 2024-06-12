@@ -1,9 +1,6 @@
 // Purpose: This program takes two values from the user and then swaps them
 // before printing the values. The user will be prompted to enter
 // both numbers.
-
-// Anton Luna
-// CSIS-113A-3780 
 // Last Modified Date: 3/22/2024
 
 #include <iostream>
